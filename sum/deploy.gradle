@@ -22,7 +22,7 @@ bintray {
     // properties (like userOrg, desc, etc).
     pkg {
         repo = "maven" //bintray repo
-        name = "com.example.sum" //bintray package
+        name = "sumlibrary" //bintray package
         version {
             name = libVersion
         }
